@@ -5,7 +5,7 @@ Avec Anihub, vous pouvez juste ouvrir l'application et vous serez dirigé vers l
 
 AniHub contient un bloqueur de publicité partiel. Il autorise l'affichage de la pub, mais les pub caché (ce que vous ne voyez pas, mais aussi les pubs que vous voyez de toute façon) sont bloqué. Donc vous n'avez pas besoin d'installer un bloqueur de pub car il y en a un directement intégré a l'application.
 
-Si vous connaissez des sites qui ont des autre langages, contacter moi sur discord, mon username est tempmistaelon (Si vous essayer de me dire d'ajouter un site web douteux, je refuserai et je vous bloque sur le champ.)
+Si vous connaissez des sites qui ont des autre langages, contacter moi sur discord, L'invite discord: https://discord.gg/G8PdnFaqXV (Si vous essayer de me faire ajouter un site web douteux, je refuserai et je vous ban sur le champ.)
 
 ## English version of the read me
 
@@ -19,4 +19,4 @@ If you click on the English language option, you'll be redirected to HiAnime, wh
 
 AniHub includes a partial ad blocker. It allows advertisements to be displayed, but blocks hidden ads (ads you don't actually see) as well as ads that are displayed but are not meant to be interacted with. This means you don't need to install an additional ad blocker, as one is already built into the application.
 
-If you know some websites that have other languages to add in this application, contact me on discord, my username is tempmistaelon (If you try to get me to add a suspicious website, I will refuse and block you immediately.)
+If you know some websites that have other languages to add in this application, contact me on discord, Discord invite: https://discord.gg/G8PdnFaqXV (If you try to get me to add a suspicious website, I will refuse and ban you immediately.)
